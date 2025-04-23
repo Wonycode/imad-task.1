@@ -15,3 +15,6 @@ How to use meal genie
 
 THIS IS THE LINK FOR THE YOUTUBE TUTORIAL EXAMPLE OF THE APP
 https://youtu.be/pBGoMHJgcWc
+
+THIS IS THE LINK TO THE GITHUB
+https://github.com/Wonycode/imad-task.1 
